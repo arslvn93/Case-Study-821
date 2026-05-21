@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Roccasalva & Co",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Rick Roccasalva",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Roccasalva & Co",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Overpaying paralysis: Every headline screamed about buyers getting caught in bidding wars and paying tens of thousands over asking—they were terrified of making a costly mistake",
         "Feature frustration: They refused to compromise on their must-haves (prime location, 2 parking spaces, move-in ready condition), but nothing seemed to check all the boxes",
         "First-time uncertainty: As a renter stepping into ownership for the first time, they felt overwhelmed by the process and unsure who to trust with the biggest purchase of their life"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"The level of professionalism and service we received exceeded our expectations and went well above previous experiences with other agents. Rick didn't just find us a home—he saved us money, eliminated the stress, and helped us secure a property we honestly didn't think we could afford. We're now building wealth instead of throwing money away on rent, and we wake up to this incredible terrace view every morning. Working with the right realtor made all the difference.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/istreet-realty-group/marketing-requests/buyer-success-story/1778700812416-IMG_6235.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +97,8 @@ const config = {
         "Won a spectacular private terrace with unobstructed views—a rare feature that dramatically increases both lifestyle value and future resale potential",
         "<strong>ZERO COMPETITION</strong>: Avoided bidding wars entirely through strategic timing and seller-focused terms, giving them peace of mind instead of stress",
         "Transitioned from renter to owner in one of the GTA's most sought-after growth corridors, building equity from day one instead of padding a landlord's portfolio"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +107,8 @@ const config = {
         "<strong>Expertise pays for itself</strong>: The right agent with strong negotiation tactics and local market intelligence can save you thousands—our buyer saved nearly $10K below asking while competitors overpay",
         "<strong>Speed wins in tight markets</strong>: Being pre-approved, decisive, and working with an agent who can move quickly means you'll secure properties before other buyers even schedule showings",
         "<strong>Strategic terms trump blind offers</strong>: Offering what the seller actually needs (like a quick closing) is often more powerful than simply throwing more money at the deal"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +120,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://istreetrealty.ca/privacy-policy/"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Rickslogo.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "iStreet Realty Group - HomeLife Partners",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://istreetrealty.ca/privacy-policy/"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-821"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
