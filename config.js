@@ -7,11 +7,11 @@ const config = {
         "contactDetails": [
           {
             "type": "email",
-            "value": "rick@istreetrealty.ca"
+            "value": "rick@roccasalva.co"
           },
           {
             "type": "phone",
-            "value": "416 616 9369"
+            "value": "(416) 616-9369"
           }
         ]
       }
