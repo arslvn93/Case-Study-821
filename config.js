@@ -25,19 +25,19 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How a Young Professional Escaped the Rent Trap and Scored a Vaughan Terrace Condo $9,999 Below Asking - In a Market Where Units Like This Rarely Last",
+    "title": "How a Professional Escaped the Rent Trap and Scored a Vaughan Terrace Condo $10k Below Asking - In a Market Where Units Like This Rarely Last",
     "subheadline": "From Renting to Owning in Their Dream Location—With a Stunning Terrace View They Didn't Think They Could Afford"
   },
   "mainBox": {
     "summary": {
-      "title": "How a Young Professional Escaped the Rent Trap and Scored a Vaughan Terrace Condo $9,999 Below Asking - In a Market Where Units Like This Rarely Last",
+      "title": "How a Professional Escaped the Rent Trap and Scored a Vaughan Terrace Condo $10K Below Asking - In a Market Where Units Like This Rarely Last",
       "heroImage": {
         "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/istreet-realty-group/marketing-requests/buyer-success-story/1778700717752-IMG_6231.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a driven young professional who was tired of watching rent payments disappear into someone else's pocket. They wanted to build equity in Vaughan's competitive market, but with limited inventory and fears of overpaying, they weren't sure if homeownership was actually within reach. That's when everything changed.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $9,999 BELOW ASKING PRICE</strong>: Purchased at $690,000 versus the $699,999 list price in a market where well-maintained terrace units typically receive multiple offers Secured ALL three non-negotiables: Prime Vaughan location, 2 parking spaces, and completely updated interiors with zero renovation needed Won a spectacular private terrace with unobstructed views - a rare feature that dramatically increases both lifestyle value and future resale potential <strong>ZERO COMPETITION</strong>: Avoided bidding wars entirely through strategic timing and seller-focused terms, giving them peace of mind instead of stress Transitioned from renter to owner in one of the GTA's most sought-after growth corridors, building equity from day one instead of padding a landlord's portfolio"
+        "Meet a driven professional who was tired of watching rent payments disappear into someone else's pocket. They wanted to build equity in Vaughan's competitive market, but with limited inventory and fears of overpaying, they weren't sure if homeownership was actually within reach. That's when everything changed.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $10K BELOW ASKING PRICE</strong>: Purchased at $690,000 versus the $699,999 list price in a market where well-maintained terrace units typically receive multiple offers Secured ALL three non-negotiables: Prime Vaughan location, 2 parking spaces, and completely updated interiors with zero renovation needed Won a spectacular private terrace with unobstructed views - a rare feature that dramatically increases both lifestyle value and future resale potential <strong>ZERO COMPETITION</strong>: Avoided bidding wars entirely through strategic timing and seller-focused terms, giving them peace of mind instead of stress (Transitioned from renter to owner in one of the GTA's most sought-after growth corridors, building equity from day one instead of padding a landlord's portfolio)"
       ]
     },
     "sidebar": {
@@ -58,7 +58,7 @@ const config = {
         "Inventory drought: Less than a handful of updated 2-bedroom condos available in their target price range, forcing them to compete for rare listings",
         "Overpaying paralysis: Every headline screamed about buyers getting caught in bidding wars and paying tens of thousands over asking - they were terrified of making a costly mistake",
         "Feature frustration: They refused to compromise on their must-haves (prime location, 2 parking spaces, move-in ready condition), but nothing seemed to check all the boxes",
-        "First-time uncertainty: As a renter stepping into ownership for the first time, they felt overwhelmed by the process and unsure who to trust with the biggest purchase of their life"
+        "'Buyer uncertainty: As a renter stepping into ownership on their own for this first time they felt overwhelmed by the process and unsure who to trust with the biggest purchase of their life."
       ],
       "listItems": []
     },
@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SAVED $9,999 BELOW ASKING PRICE</strong>: Purchased at $690,000 versus the $699,999 list price in a market where well-maintained terrace units typically receive multiple offers",
+        "<strong>SAVED $10k BELOW ASKING PRICE</strong>: Purchased at $690,000 versus the $699,999 list price in a market where well-maintained terrace units typically receive multiple offers",
         "Secured ALL three non-negotiables: Prime Vaughan location, 2 parking spaces, and completely updated interiors with zero renovation needed",
         "Won a spectacular private terrace with unobstructed views - a rare feature that dramatically increases both lifestyle value and future resale potential",
         "<strong>ZERO COMPETITION</strong>: Avoided bidding wars entirely through strategic timing and seller-focused terms, giving them peace of mind instead of stress",
@@ -131,7 +131,7 @@ const config = {
       "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Rickslogo.png"
     },
     "brokerageLabel": "Brokerage:",
-    "brokerageName": "iStreet Realty Group - HomeLife Partners",
+    "brokerageName": "Roccasalva & Co - HomeLife Partners Realty Corp",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
     "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
   },
